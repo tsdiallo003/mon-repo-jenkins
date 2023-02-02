@@ -15,3 +15,4 @@ def install () {
 
 def checkSonar() {
 }
+return this

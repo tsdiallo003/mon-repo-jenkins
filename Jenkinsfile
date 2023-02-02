@@ -16,6 +16,7 @@ pipeline {
       when {
         expression  {
           params.executeTests
+        }
       }
       steps {
         echo '************TEST*************'
